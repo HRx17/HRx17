@@ -1,16 +1,12 @@
-### Hi there 👋
+### Heyo, I'm Haet Ranpariya 👋
 
-<!--
-**HRx17/HRx17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on E-Commerce Web-app.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Native Android Projects and Youtube.
+- 🤔 I’m looking for help with Dynamic Web-app development 
+- 💬 Ask me about Native Android or any android tech related stuff
+- 📫 How to reach me: [LinkedIn - @HaetRanpariya](https://www.linkedin.com/in/haet-ranpariya-382324188), [Instagram - @haet117](https://www.instagram.com/haet117)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: A Chocolate bar helps you code better.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=HRx17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
